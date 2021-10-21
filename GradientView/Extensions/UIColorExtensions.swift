@@ -1,8 +1,8 @@
 //
 //  UIColorExtensions.swift
-//  HelloWorld
+//  GradientView
 //
-//  Created by ELORCE INDUSTRIES PRIVATE LIMITED on 20/10/21.
+//  Created by ELORCE INDUSTRIES PRIVATE LIMITED on 21/10/21.
 //
 
 import Foundation
